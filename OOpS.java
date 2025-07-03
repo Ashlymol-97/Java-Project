@@ -1,4 +1,4 @@
-package JavaBase;
+
 
 class Calculator
 {
@@ -28,4 +28,3 @@ public class OOpS {
   
 }
 
-// Good Evening, I'd like to update you on today's work. I completed logout API testing through test code.And in Java side, loops and class in oops are completed.   
