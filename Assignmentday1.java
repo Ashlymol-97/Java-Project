@@ -1,19 +1,18 @@
 
+  
 
-// * add 2 num : 
+class add
+{
+  public static void main(String args[])
+  {
+    int n1 = 2;
+    int n2 = 5;
+    int result = n1 + n2;
 
-// class Hello
-// {
-//   public static void main(String a[])
-//   {
-//     int n1 = 2;
-//     int n2 = 5;
-//     int result = n1 + n2;
+    System.out.println(result);
 
-//     System.out.println(result);
-
-//   }
-// }
+  }
+}
 
 
 
@@ -144,5 +143,4 @@
       
 //   }
 // }
-
-
+  
